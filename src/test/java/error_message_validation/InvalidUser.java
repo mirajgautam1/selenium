@@ -1,4 +1,4 @@
-package login_with_invalid_user;
+package error_message_validation;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
